@@ -64,7 +64,3 @@ python app.py
 - **Prime checking**: O(√n) for each number
 - **Initial computation**: O(n√n) where n is the upper limit (10,000)
 - **Nth prime lookup**: O(1) after precomputation
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
